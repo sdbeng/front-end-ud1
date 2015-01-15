@@ -1,9 +1,10 @@
+/* Enter your custom CSS here */
 body{
 	font-family: "Kalimati", Verdana, sans-serif;
 	padding-right: 110px;
 	color: #666666;
 }
-/*Don't forget to set chrome window to 1024*/
+
 /*Header*/
 header{
 	margin-top: 25px;
@@ -53,11 +54,4 @@ aside{
 article p{
 	font-size: 1.15em;
 	line-height: 1.75;
-	color: green;
-}
-.mockup-overlay {
-       top: 0;
-       position: absolute;
-       z-index: 10;
-       opacity: .4;
 }
