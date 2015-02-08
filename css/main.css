@@ -1,8 +1,9 @@
 /* Enter your custom CSS here */
+/* Use Verdana font (According to the updatedP1 test run page/Instructor Notes Feb 7,2015*/
 body{
-	font-family: "Kalimati", Verdana, sans-serif;
+	font-family: Verdana, sans-serif;
 	padding-right: 110px;
-	color: #666666;
+	color: #666;
 }
 
 /*Header*/
