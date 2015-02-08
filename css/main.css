@@ -14,28 +14,29 @@ header{
 
 h1{
 	font-size: 3.445em;
-    font-weight: 500;
+	font-weight: 500;
 }
 
 h2{
-    color: #f07c17;    
-    font-weight: bold;
-    font-size: 1.7em
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 1.7em
 }
+
 /* aside col*/
 aside{
 	margin-left: 27px;
 }
 
 .top-space{
-    padding-top: 21px;
+	padding-top: 21px;
 }
 
 .features-box{
 	margin-top: 31px;
-    padding: 8px 29px 32px;
-    border: 1px solid #ccc;
-    line-height: 2;
+	padding: 8px 29px 32px;
+	border: 1px solid #ccc;
+	line-height: 2;
 }
 
 .features-box h2{
@@ -48,7 +49,7 @@ aside{
 
 /*article main col*/
 .parag-heading{
-    padding: 0 0 22px 1px;
+	padding: 0 0 22px 1px;
 }
 
 article p{
